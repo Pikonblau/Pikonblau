@@ -33,7 +33,11 @@ Utilizar o GIT
 Tabela XOR
 <br>
 Rede de computadores
+<br>
 Modelo OSI
+<br>
 Como funciona o roteador
+<br>
 Como funciona o tráfego de dados
+<br>
 Protocolo TCP/IP
